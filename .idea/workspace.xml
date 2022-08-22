@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7594e4f0-d44e-44da-aa3f-24b0bc402a49" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/DuplicateRemoval.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/QueueAddQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/QueueStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayDuplicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CheckMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Panagram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SearchFirst.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,23 +45,23 @@
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.QueueAddQueue">
-    <configuration name="ArrayListInt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArrayListInt" />
+  <component name="RunManager" selected="Application.ArrayDuplicate">
+    <configuration name="ArrayDuplicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayDuplicate" />
       <module name="Java8Practice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DuplicateRemoval" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DuplicateRemoval" />
+    <configuration name="CheckMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CheckMain" />
       <module name="Java8Practice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HashMapInt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HashMapInt" />
+    <configuration name="Panagram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Panagram" />
       <module name="Java8Practice" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -73,8 +74,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QueueStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="QueueStack" />
+    <configuration name="SearchFirst" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SearchFirst" />
       <module name="Java8Practice" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -82,11 +83,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArrayDuplicate" />
+        <item itemvalue="Application.Panagram" />
+        <item itemvalue="Application.SearchFirst" />
+        <item itemvalue="Application.CheckMain" />
         <item itemvalue="Application.QueueAddQueue" />
-        <item itemvalue="Application.QueueStack" />
-        <item itemvalue="Application.DuplicateRemoval" />
-        <item itemvalue="Application.ArrayListInt" />
-        <item itemvalue="Application.HashMapInt" />
       </list>
     </recent_temporary>
   </component>
@@ -103,7 +104,7 @@
       <workItem from="1659965505866" duration="8790000" />
       <workItem from="1661018580904" duration="1965000" />
       <workItem from="1661096932936" duration="7089000" />
-      <workItem from="1661180328415" duration="3489000" />
+      <workItem from="1661180328415" duration="15605000" />
     </task>
     <servers />
   </component>
