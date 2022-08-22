@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7594e4f0-d44e-44da-aa3f-24b0bc402a49" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ArrayListInt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HashMapInt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DuplicateRemoval.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/QueueAddQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/QueueStack.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,19 +34,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.ArrayListInt">
+}</component>
+  <component name="RunManager" selected="Application.QueueAddQueue">
     <configuration name="ArrayListInt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArrayListInt" />
+      <module name="Java8Practice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DuplicateRemoval" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DuplicateRemoval" />
       <module name="Java8Practice" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -58,22 +66,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreadClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ThreadClass" />
+    <configuration name="QueueAddQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="QueueAddQueue" />
       <module name="Java8Practice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreadPoolExecutor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ThreadPoolExecutor" />
-      <module name="Java8Practice" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ThreadRunnableEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ThreadRunnableEx" />
+    <configuration name="QueueStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="QueueStack" />
       <module name="Java8Practice" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -81,11 +82,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.QueueAddQueue" />
+        <item itemvalue="Application.QueueStack" />
+        <item itemvalue="Application.DuplicateRemoval" />
         <item itemvalue="Application.ArrayListInt" />
         <item itemvalue="Application.HashMapInt" />
-        <item itemvalue="Application.ThreadPoolExecutor" />
-        <item itemvalue="Application.ThreadRunnableEx" />
-        <item itemvalue="Application.ThreadClass" />
       </list>
     </recent_temporary>
   </component>
@@ -101,7 +102,8 @@
       <workItem from="1659907465757" duration="4904000" />
       <workItem from="1659965505866" duration="8790000" />
       <workItem from="1661018580904" duration="1965000" />
-      <workItem from="1661096932936" duration="6413000" />
+      <workItem from="1661096932936" duration="7089000" />
+      <workItem from="1661180328415" duration="3489000" />
     </task>
     <servers />
   </component>
